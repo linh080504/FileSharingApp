@@ -1,0 +1,14 @@
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.AssemblyInfoInputs.cache
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.AssemblyInfo.cs
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.csproj.CoreCompileInputs.cache
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\bin\Debug\net8.0\FileClientApp.exe
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\bin\Debug\net8.0\FileClientApp.deps.json
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\bin\Debug\net8.0\FileClientApp.runtimeconfig.json
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\bin\Debug\net8.0\FileClientApp.dll
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\bin\Debug\net8.0\FileClientApp.pdb
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.dll
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\refint\FileClientApp.dll
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.pdb
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\FileClientApp.genruntimeconfig.cache
+C:\Users\vuluy\source\repos\FileClientApp\FileClientApp\obj\Debug\net8.0\ref\FileClientApp.dll
