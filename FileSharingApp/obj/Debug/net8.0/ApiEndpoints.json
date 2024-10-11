@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/File/download/{fileName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "FileList",
+    "RelativePath": "api/File/files",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "ReceiveFile",
+    "RelativePath": "api/File/receive-file/{fileName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "SendFile",
+    "RelativePath": "api/File/send-file",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "Upload",
+    "RelativePath": "api/File/upload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileSharingApp.Controllers.FileController",
+    "Method": "UploadFile",
+    "RelativePath": "api/File/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

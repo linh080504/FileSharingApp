@@ -1,0 +1,12 @@
+﻿@model IEnumerable<string>
+
+<h2>Available Files for Download</h2>
+
+<ul>
+    @foreach (var file in Model)
+    {
+            <li>
+            @Html.ActionLink(file, "DownloadFile", new { fileName = file })
+            </li>
+    }
+</ul>
