@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DB22DC-727C-4925-85B0-5337360EFAF7}|Solution Items{B1DB22DC-727C-4925-85B0-5337360EFAF7}|C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DB22DC-727C-4925-85B0-5337360EFAF7}|Solution Items{B1DB22DC-727C-4925-85B0-5337360EFAF7}|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\views\\file\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\views\\file\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\filesharingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\filesharingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|c:\\users\\vuluy\\source\\repos\\filesharingapp\\filesharingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D088AA10-04BE-4736-8D64-7E8BBF119F0A}|FileSharingApp\\FileSharingApp.csproj|solutionrelative:filesharingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.cs",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\client.cs",
+              "RelativeDocumentMoniker": "client.cs",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\client.cs",
+              "RelativeToolTip": "client.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:30:05.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileSharingApp.csproj",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\FileSharingApp.csproj",
+              "RelativeDocumentMoniker": "FileSharingApp\\FileSharingApp.csproj",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\FileSharingApp.csproj",
+              "RelativeToolTip": "FileSharingApp\\FileSharingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T19:04:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\File\\Upload.cshtml",
+              "RelativeDocumentMoniker": "FileSharingApp\\Views\\File\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\File\\Upload.cshtml",
+              "RelativeToolTip": "FileSharingApp\\Views\\File\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:59:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "FileSharingApp\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Controllers\\FileController.cs",
+              "RelativeToolTip": "FileSharingApp\\Controllers\\FileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:37:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FileSharingApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FileSharingApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T16:32:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FileSharingApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FileSharingApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:28:00.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FileSharingApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FileSharingApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:22:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileSharingApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FileSharingApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:22:12.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Program.cs",
+              "RelativeDocumentMoniker": "FileSharingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Program.cs",
+              "RelativeToolTip": "FileSharingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:07:26.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileList.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\File\\FileList.cshtml",
+              "RelativeDocumentMoniker": "FileSharingApp\\Views\\File\\FileList.cshtml",
+              "ToolTip": "C:\\Users\\vuluy\\source\\repos\\FileSharingApp\\FileSharingApp\\Views\\File\\FileList.cshtml",
+              "RelativeToolTip": "FileSharingApp\\Views\\File\\FileList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:03:08.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
